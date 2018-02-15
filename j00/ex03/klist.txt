@@ -1,0 +1,8 @@
+Credentials cache: API:3F18F81C-8228-4CAC-9246-CAB0319AD97E
+        Principal: frahaing@42.FR
+
+  Issued                Expires               Principal
+Aug  1 12:44:58 2017  Aug  8 12:44:58 2017  krbtgt/42.FR@42.FR
+Aug  1 12:45:00 2017  Aug  8 12:44:58 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug  1 12:45:00 2017  Aug  8 12:44:58 2017  HTTP/student-storage-1.42.fr@42.FR
+Aug  1 13:46:55 2017  Aug  8 12:44:58 2017  host/vgs-fn1.42.fr@42.FR
